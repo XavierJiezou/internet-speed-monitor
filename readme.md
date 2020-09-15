@@ -8,3 +8,7 @@ this is an application of internet speed monitor based on python gui.
 ```
 pyinstaller -w -F main.py -i img/logo.ico
 ```
+# todo
+- [ ] backgroud image
+- [x] window top
+- [x] unit auto convert
