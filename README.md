@@ -6,5 +6,5 @@ this is an application of internet speed monitor based on python gui.
 [windows64](https://github.com/XavierJiezou/internet-speed-monitor/releases/download/v1.0/wsjk_win64.exe)
 # py2exe
 ```
-pyinstaller -w -F main.py -i img/logo.ico
+pyinstaller -w -F main.py -i img/logo.ic
 ```
