@@ -10,5 +10,5 @@ pyinstaller -w -F main.py -i img/logo.ico
 ```
 # todo
 - [ ] backgroud image
-- [x] window top
+- [x] make window top
 - [x] unit auto convert
